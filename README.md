@@ -2,5 +2,5 @@
 ##
 
 - 👨‍💻 - Atuando como Supervisor de Equipe Externa
-- 💻 - Estudando (e muito) Android / Java / Kotlin / Spring
+- 💻 - Estudando (e muito) Android{ Java, Kotlin } / Spring / MVVM / REST / CleanCode
 - 🔭 - Astrônomo por hobbie
