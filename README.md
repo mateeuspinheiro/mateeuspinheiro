@@ -1,6 +1,6 @@
-## Olá, eu sou o Mateus Pinheiro. Sejam bem-vindo ao meu GitHub! 👋
+## E aí, tudo bem? 👋
 ##
 
-- 👨‍💻 - Atuando como Supervisor de Equipe Externa
-- 💻 - Estudando (e muito) Android{ Java, Kotlin } / Spring / MVVM / REST / CleanCode
+- 💻 - Kotlin
+- 💻 - Delphi
 - 🔭 - Astrônomo por hobbie
