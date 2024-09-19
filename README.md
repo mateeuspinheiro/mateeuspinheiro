@@ -1,6 +1,5 @@
 ## E aí, tudo bem? 👋
 ##
 
-- 💻 - Kotlin
 - 💻 - Delphi
-- 🔭 - Astrônomo por hobbie
+- 🔭 - Astrônomia e teologia por hobbie
